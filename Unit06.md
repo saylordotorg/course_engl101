@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL101: Introduction to Literary Studies"
+course_description: "An introductory survey of the history and practice of English literary and cultural expression, exploring the major genres of poetry, the novel, drama, and the critical essay."
+next: ../../../
+previous: ../Unit05
+---
 **Unit 6: Final Exam** <span id="6"></span> 
 -   **Final Exam: The Saylor Foundation’s “ENGL101 Final Exam”**
     Link: The Saylor Foundation’s [“ENGL101 Final

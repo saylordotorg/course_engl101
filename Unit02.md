@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL101: Introduction to Literary Studies"
+course_description: "An introductory survey of the history and practice of English literary and cultural expression, exploring the major genres of poetry, the novel, drama, and the critical essay."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Poetics** <span id="2"></span> 
 *After the discovery of “The Epic of Gilgamesh,” we learned that poetry
 has been around since the third millennium, BCE (and likely well before

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL101: Introduction to Literary Studies"
+course_description: "An introductory survey of the history and practice of English literary and cultural expression, exploring the major genres of poetry, the novel, drama, and the critical essay."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "ENGL101: Introduction to Literary Studies"
 ---------------------------------------------------------------
 

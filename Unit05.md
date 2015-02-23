@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL101: Introduction to Literary Studies"
+course_description: "An introductory survey of the history and practice of English literary and cultural expression, exploring the major genres of poetry, the novel, drama, and the critical essay."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Rhetoric and the Critical Essay** <span id="5"></span> 
 *As you have discovered by now, literary criticism requires you to
 carefully read and analyze literary texts. It also requires you to

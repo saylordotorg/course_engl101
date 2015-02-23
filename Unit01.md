@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL101: Introduction to Literary Studies"
+course_description: "An introductory survey of the history and practice of English literary and cultural expression, exploring the major genres of poetry, the novel, drama, and the critical essay."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Text and Discourse** <span id="1"></span> 
 *If you read regularly, you probably have a good sense of what kind of
 literature you like and what you don’t like. However, if you are like

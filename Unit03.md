@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL101: Introduction to Literary Studies"
+course_description: "An introductory survey of the history and practice of English literary and cultural expression, exploring the major genres of poetry, the novel, drama, and the critical essay."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Narrativity and the Novel** <span id="3"></span> 
 *In the preface to his novel,* The Ambassadors*, Henry James once
 described novels as “the most independent, the most elastic, the most
