@@ -128,4 +128,11 @@ down with your calendar and decide to complete subunit 1.2.1 (a total of
 1 hour) on Monday, subunit 1.2.2 (a total of 1 hour) on Tuesday, subunit
 1.2.3 (a total of 2 hours) on Wednesday, and so forth.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/engl101/Unit01/)
+- [Unit 2](https://legacy.saylor.org/engl101/Unit02/)
+- [Unit 3](https://legacy.saylor.org/engl101/Unit03/)
+- [Unit 4](https://legacy.saylor.org/engl101/Unit04/)
+- [Unit 5](https://legacy.saylor.org/engl101/Unit05/)
+- [Unit 6](https://legacy.saylor.org/engl101/Unit06/)
