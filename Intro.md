@@ -139,3 +139,4 @@ down with your calendar and decide to complete subunit 1.2.1 (a total of
 - [Unit 4](https://legacy.saylor.org/engl101/Unit04/)
 - [Unit 5](https://legacy.saylor.org/engl101/Unit05/)
 - [Unit 6](https://legacy.saylor.org/engl101/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL101/ENGL101-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL101/ENGL101-FinalExam-Answers.html)
