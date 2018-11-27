@@ -82,7 +82,7 @@ Study of Drama and Theater** <span id="4.1.2"></span> 
 -   **Reading: Project Gutenberg’s version of Sophocles’ *Oedipus the
     King***
     Link: Project Gutenberg’s version of Sophocles’ *[Oedipus the
-    King](http://www.saylor.org/site/wp-content/uploads/2011/01/PLAYS-OF-SOPHOCLES.pdf)* (PDF)  
+    King](https://resources.saylor.org/archived/wp-content/uploads/2011/01/PLAYS-OF-SOPHOCLES.pdf)* (PDF)  
       
      Instructions: Scroll down and only read Sophocles’ play, *Oedipus
     the King.* This Athenian tragedy was first performed in fifth
@@ -135,7 +135,7 @@ Study of Drama and Theater** <span id="4.1.2"></span> 
 id="4.2.3"></span> 
 -   **Reading: Bartleby’s version of William Shakespeare’s *Hamlet***
     Link: Bartleby’s version of William Shakespeare’s
-    [*Hamlet*](http://www.saylor.org/site/wp-content/uploads/2011/01/William-Shakespeare-Hamlet.pdf) (PDF)  
+    [*Hamlet*](https://resources.saylor.org/archived/wp-content/uploads/2011/01/William-Shakespeare-Hamlet.pdf) (PDF)  
       
      Instructions: Read Shakespeare’s *Hamlet*. As one of William
     Shakespeare’s most famous dramatic tragedies, *Hamlet* explores
@@ -185,7 +185,7 @@ id="4.3.1"></span> 
     for Godot***
 
     Link: Samuel-Beckett.net’s version of Samuel Beckett’s [*Waiting for
-    Godot*](http://www.saylor.org/site/wp-content/uploads/2011/01/Waiting-for-Godot.pdf) (PDF)  
+    Godot*](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Waiting-for-Godot.pdf) (PDF)  
       
      Instructions: Read Acts I and II of Beckett’s play. There is a link
     to move on to Act II at the very bottom of the Act I page.  
@@ -211,7 +211,7 @@ id="4.3.1"></span> 
     Western Theater”**
 
     Link: The Saylor Foundation’s [“Introduction to Postmodern Western
-    Theater”](http://www.saylor.org/site/wp-content/uploads/2011/10/SAYLOR.ORG-ENGL101-POSTMODERNTHEATER.pdf)
+    Theater”](https://resources.saylor.org/archived/wp-content/uploads/2011/10/SAYLOR.ORG-ENGL101-POSTMODERNTHEATER.pdf)
     (PDF)  
       
      Instructions: Read the brief entry on Postmodern Western theater.
