@@ -155,7 +155,7 @@ id="5.2.2"></span> 
 
     Link: University of Florida: Dr. R. Allen Shoaf’s [*“Hamlet*: Like
     Mother, Like
-    Son”](http://www.saylor.org/site/wp-content/uploads/2011/02/Hamlet-and-Sons.pdf)
+    Son”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Hamlet-and-Sons.pdf)
     (PDF)  
       
      Instructions: Read Dr. Shoaf’s article on *Hamlet*.  

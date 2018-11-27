@@ -108,7 +108,7 @@ Upon successful completion of this unit, you will be able to:
 Forerunners to the Novel** <span id="3.1.3"></span> 
 -   **Reading: Brooklyn College: Dr. Lilia Melani’s “The Novel”**
     Link: Brooklyn College: Dr. Lilia Melani’s [“The
-    Novel”](http://www.saylor.org/site/wp-content/uploads/2011/01/The-Novel.pdf) (PDF)  
+    Novel”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-Novel.pdf) (PDF)  
       
      Instructions: Read Dr. Melani’s “The Novel,” which speaks about the
     development of the modern novel out of the earlier genres.  
@@ -127,7 +127,7 @@ id="3.1.4"></span> 
     Economic Man”**
     Link: Brooklyn College: Dr. Lilia Melani’s [“Robinson Crusoe as
     Economic
-    Man”](http://www.saylor.org/site/wp-content/uploads/2011/02/ROBINSON-CRUSOE-AS-ECONOMIC-MAN.pdf) (PDF)  
+    Man”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/ROBINSON-CRUSOE-AS-ECONOMIC-MAN.pdf) (PDF)  
       
      Instructions: Read Dr. Melani’s brief discussion of the
     relationship between Daniel Defoe’s novel, *Robinson Crusoe,* and
@@ -147,7 +147,7 @@ id="3.1.5"></span> 
     Rewarded* and *The Norton Anthology of English Literature*: “A Day
     in Eighteenth-Century London”**
     Link: Excerpts from Samuel Richardson’s *[Pamela, or Virtue
-    Rewarded](http://www.saylor.org/site/wp-content/uploads/2011/02/PAMELA.pdf) *(PDF) and
+    Rewarded](https://resources.saylor.org/archived/wp-content/uploads/2011/02/PAMELA.pdf) *(PDF) and
     *The Norton Anthology of English Literature*: [“A Day in
     Eighteenth-Century
     London”](http://www.wwnorton.com/college/english/nael/18century/topic_1/welcome.htm)
@@ -179,7 +179,7 @@ Defoe’s Robinson Crusoe** <span id="3.1.6"></span> 
 -   **Reading: Project Gutenberg’s version of Daniel Defoe’s Robinson
     Crusoe**
     Link: Project Gutenberg’s version of Daniel Defoe’s [*Robinson
-    Crusoe*](http://www.saylor.org/site/wp-content/uploads/2011/01/Robinson-Crusoe.pdf) (PDF)  
+    Crusoe*](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Robinson-Crusoe.pdf) (PDF)  
       
      Instructions: Read Defoe’s novel. Often considered the first novel
     in English, Daniel Defoe’s Robinson Crusoe combines elements of
@@ -212,7 +212,7 @@ id="3.2.2"></span> 
 -   **Reading: Oxford Tutorials’ “Viewpoint” and the Victorian Web: Dr.
     George P. Landow’s “How to Read a Novel”**
     Link: Oxford Tutorials’
-    [“Viewpoint”](http://www.saylor.org/site/wp-content/uploads/2011/04/VIEWPOINT-DEFINITION.pdf)
+    [“Viewpoint”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/VIEWPOINT-DEFINITION.pdf)
     (PDF) and the Victorian Web: Dr. George P. Landow’s [“How to Read a
     Novel”](http://www.victorianweb.org/technique/howto.novel.html)
     (HTML)  
@@ -234,7 +234,7 @@ id="3.2.2"></span> 
 <span id="3.2.3"></span> 
 -   **Reading: Oxford Tutorials’ “Imagery, Motif, and Symbolism”**
     Link: Oxford Tutorials’ [“Imagery, Motif, and
-    Symbolism”](http://www.saylor.org/site/wp-content/uploads/2011/04/IMAGERY-MOTIF-SYMBOLISM.pdf)
+    Symbolism”](https://resources.saylor.org/archived/wp-content/uploads/2011/04/IMAGERY-MOTIF-SYMBOLISM.pdf)
     (PDF)  
       
      Instructions: Scroll down and study only the selections for
@@ -257,7 +257,7 @@ id="3.2.2"></span> 
     of Green Gables: The Transformation from Bildungsroman to Romantic
     Comedy”**
     Link: The Victorian Web: Dr. Suzanne Hader’s [“Explication of the
-    *Bildungsroman*”](http://www.saylor.org/site/wp-content/uploads/2011/02/Great-Expectations.pdf) (PDF)
+    *Bildungsroman*”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Great-Expectations.pdf) (PDF)
     and Latrobe University: *The Looking Glass: New Perspectives on
     Children’s Literature*: LaurenBeth Signore’s [“Anne of Green Gables:
     The Transformation from Bildungsroman to Romantic
@@ -301,7 +301,7 @@ id="3.2.2"></span> 
     Anthology of English Literature*: “Introduction to The Castle of
     Otranto”**
     Link: Horace Walpole’s [“Castle of
-    Otranto”](http://www.saylor.org/site/wp-content/uploads/2012/12/THE-CASTLE-OF-OTRANTO-1.pdf) (PDF)
+    Otranto”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/THE-CASTLE-OF-OTRANTO-1.pdf) (PDF)
     and *The Norton Anthology of English Literature*: [“Introduction to
     the *Castle of
     Otranto*”](http://www.wwnorton.com/college/english/nael//romantic/topic_2/otranto.htm)
@@ -326,7 +326,7 @@ id="3.3.4"></span> 
     Link: *Encyclopedia Britannica*’s [“Epistolary
     Novel”](http://www.britannica.com/EBchecked/topic/190331/epistolary-novel/190331main/Article) (HTML)
     and Purdue University: Dr. Dino Felluga’s [“Frame
-    Narrative”](http://www.saylor.org/site/wp-content/uploads/2011/02/Frame-Narrative.pdf) (PDF)  
+    Narrative”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Frame-Narrative.pdf) (PDF)  
       
      Instructions: Read *Encyclopedia Britannica*’s entry on the
     “epistolary novel” and Dr. Felluga’s definition of the “frame
@@ -353,7 +353,7 @@ id="3.3.5"></span> 
     Link: *Encyclopedia Britannica*’s Definition of [“The Novel of
     Manners”](http://www.britannica.com/EBchecked/topic/421071/novel/51001/The-novel-of-manners) (HTML)
     and The Victorian Web: Dr. Richard Kelly’s [“The Novelist’s
-    Eye”](http://www.saylor.org/site/wp-content/uploads/2011/02/The-Novelists-eye.pdf) (PDF)  
+    Eye”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Novelists-eye.pdf) (PDF)  
       
      Instructions: Read *Encyclopedia Britannica*’s explication of this
     genre and Dr. Kelly’s brief essay addressing the form. Dr. Kelly is
@@ -397,7 +397,7 @@ id="3.4"></span> 
 -   **Reading: Project Gutenberg’s version of Jane Austen’s Northanger
     Abbey**
     Link: Project Gutenberg’s version of Jane Austen’s [*Northanger
-    Abbey*](http://www.saylor.org/site/wp-content/uploads/2011/02/NORTHANGER-ABBEY.pdf)
+    Abbey*](https://resources.saylor.org/archived/wp-content/uploads/2011/02/NORTHANGER-ABBEY.pdf)
     (PDF)  
       
      Instructions: Read Austen’s novel. As you read, consider how the
