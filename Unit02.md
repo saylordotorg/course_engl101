@@ -120,9 +120,9 @@ Upon successful completion of this unit, you will be able to:
 
     Link: Project Gutenberg’s version of Aristotle’s *Poetics:*
     [“Sections I, II, III, and
-    IV”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/THE-POETICS-OF-ARISTOTLE.pdf) (PDF),
+    IV”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/THE-POETICS-OF-ARISTOTLE.pdf) (PDF),
     and Bartleby’s version of Percy Bysshe Shelley’s [“A Defence of
-    Poetry”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/A-Defense-of-Poetry.pdf) (PDF)  
+    Poetry”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/A-Defense-of-Poetry.pdf) (PDF)  
       
      Instructions: Scroll down and read only sections I, II, III, and IV
     of *Poetics*. In this essay, written in 335 B.C.E., Aristotle argues
@@ -258,7 +258,7 @@ Upon successful completion of this unit, you will be able to:
     Consonance”; Poetry Foundation: Ruth Moose’s “Laundry”, William
     Blake’s “Ah! Sun-Flower”, and Robert Pinsky’s “Doctor Frolic”**
     Link: The Saylor Foundation’s [“Assonance, Alliteration, and
-    Consonance”](https://resources.saylor.org/archived/wp-content/uploads/2011/09/ENGL101-2.2.3-PoeticTermsOC-FINAL.pdf)
+    Consonance”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/ENGL101-2.2.3-PoeticTermsOC-FINAL.pdf)
     (PDF); Poetry Foundation: Ruth Moose’s
     [“Laundry”](http://www.poetryfoundation.org/poem/179332) (HTML),
     William Blake’s [“Ah!
@@ -326,7 +326,7 @@ id="2.3.1"></span> 
     University of Northern Iowa: Dr. Vince Gotera’s Definition
     of [“Couplet”](http://www.uni.edu/~gotera/CraftOfPoetry/couplet.html) (HTML),
     and Brooklyn College: Dr. Lilia Melani’s [“Explication of
-    the](https://resources.saylor.org/archived/wp-content/uploads/2011/02/explication-of-stanza.pdf)[Stanza](https://resources.saylor.org/archived/wp-content/uploads/2011/02/explication-of-stanza.pdf)[”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/explication-of-stanza.pdf) (PDF)
+    the](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/explication-of-stanza.pdf)[Stanza](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/explication-of-stanza.pdf)[”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/explication-of-stanza.pdf) (PDF)
 
       
      Instructions: Read Dr. Filreis’ explanation of poetic “lines,” Dr.
@@ -346,9 +346,9 @@ id="2.3.1"></span> 
 -   **Reading: Bartleby’s versions of Walt Whitman’s “O Captain, My
     Captain” and “*Song of Myself*: Stanzas 1–10”**
     Link: Bartleby’s versions of Walt Whitman’s [“O Captain, My
-    Captain”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/O-captain-my-captain.pdf) (PDF)
+    Captain”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/O-captain-my-captain.pdf) (PDF)
     and [“*Song of Myself*: Stanzas
-    1–10”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Leaves-of-Grass.pdf) (PDF)  
+    1–10”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Leaves-of-Grass.pdf) (PDF)  
       
      Instructions: Read Whitman’s “O Captain, My Captain” and stanzas
     1–10 of his “Song of Myself” in order to gain a sense of the
@@ -376,9 +376,9 @@ id="2.3.1"></span> 
     Link: University of Pennsylvania: Dr. Al Filreis’
     [“Sonnet”](http://writing.upenn.edu/~afilreis/88/sonnet.html) (HTML), William
     Shakespeare’s [“Sonnet
-    18”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Sonnet-XVIII.pdf) (PDF),
+    18”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Sonnet-XVIII.pdf) (PDF),
     and Elizabeth Barrett Browning’s [“How Do I Love
-    Thee?”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Sonnets-XLIII.pdf) (PDF)  
+    Thee?”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Sonnets-XLIII.pdf) (PDF)  
       
      Browning is also available in:  
      [Google
@@ -407,7 +407,7 @@ id="2.3.4"></span> 
     and
     [“Sestina”](http://www.public.asu.edu/~aarios/formsofverse/reports2000/page9.html) (HTML), Bartleby’s
     version of Ezra Pound’s [“In a Station of the
-    Metro”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/In-a-Station-of-a-Metro.pdf) (PDF), Poets.org’s
+    Metro”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/In-a-Station-of-a-Metro.pdf) (PDF), Poets.org’s
     version of Elizabeth Bishop’s [“One
     Art”](http://www.poets.org/viewmedia.php/prmMID/15212) (HTML),
     and Poet.org’s version of Ezra Pound’s [“Sestina:
@@ -436,7 +436,7 @@ poets made use of different traditions to express similar concerns.*
     Link: University of Pennsylvania: Dr. Al Filreis’
     [“Ballad”](http://writing.upenn.edu/~afilreis/88/ballad.html) (HTML)
     and Bartleby’s version of John Keats’ [“La Belle Dame Sans
-    Merce”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/John-Keats.pdf) (PDF)  
+    Merce”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/John-Keats.pdf) (PDF)  
       
      Keats is also available in:  
      [PDF](http://www.pinkmonkey.com/dl/library1/keat09.pdf)  
@@ -457,9 +457,9 @@ id="2.4.2"></span> 
     Intimations of Immortality”**
 
     Link: Brooklyn College: Dr. Lilia Melani’s [“The Meditative Romantic
-    Ode”](https://resources.saylor.org/archived/wp-content/uploads/2011/02/The-Meditative-Romantic-Ode.pdf) (PDF)
+    Ode”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/The-Meditative-Romantic-Ode.pdf) (PDF)
     and Bartleby’s version of William Wordsworth’s [“Ode: Intimations of
-    Immortality”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Ode.pdf) (PDF)  
+    Immortality”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Ode.pdf) (PDF)  
       
      Wordsworth is also available in:  
      [PDF](http://www.pinkmonkey.com/dl/library1/odeioi.pdf)  
@@ -484,7 +484,7 @@ id="2.4.2"></span> 
     Link: Poets.org’s
     [“Elegy”](http://www.poets.org/viewmedia.php/prmMID/5778) (HTML) and
     Thomas Gray’s [“Elegy Written in a Country
-    Churchyard”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Elegy-written-in-a-Country-Courtyard.pdf) (PDF)  
+    Churchyard”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Elegy-written-in-a-Country-Courtyard.pdf) (PDF)  
       
      Elegy is also available in:  
      [Google
@@ -504,9 +504,9 @@ id="2.4.2"></span> 
     Flea”**
     Link: Bartleby’s version of William Wordsworth’s [“Preface to
     Lyrical
-    Ballads”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Famous-Prefaces-to-Lyricial-Ballads.pdf)
+    Ballads”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Famous-Prefaces-to-Lyricial-Ballads.pdf)
     (PDF) and Luminarium’s version of John Donne’s [“The
-    Flea”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/THE-FLEA.pdf) (PDF)  
+    Flea”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/THE-FLEA.pdf) (PDF)  
       
      Wordsworth is also available in:  
      [Google
@@ -592,7 +592,7 @@ is told through dramatic monologue and dialogue. *
     William Shakespeare's *A Midsummer Night's Dream*: Act 1, Scene 1**
     Link: Massachusetts Institute of Technology’s version of William
     Shakespeare's [*A Midsummer Night's Dream: Act 1, Scene
-    1*](https://resources.saylor.org/archived/wp-content/uploads/2013/05/ENGL-101-2.4.6_A-Midsummer-Nights-Dream-Act-I-Scene-I.pdf) (PDF)  
+    1*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/ENGL-101-2.4.6_A-Midsummer-Nights-Dream-Act-I-Scene-I.pdf) (PDF)  
       
      Instructions: Read Act 1, Scene 1, of Shakespeare’s play for a
     classic example of the genre.  
@@ -614,7 +614,7 @@ is told through dramatic monologue and dialogue. *
 -   **Reading: Poetry Foundation's version of Robert Browning’s “My Last
     Duchess”**
     Link: Poetry Foundation's version of Robert Browning’s [“My Last
-    Duchess”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/ENGL-101-2.4.6_My-Last-Duchess.pdf)
+    Duchess”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/ENGL-101-2.4.6_My-Last-Duchess.pdf)
     (PDF)  
       
      Instructions: Play the audio recording at the top of the page and
@@ -641,7 +641,7 @@ meaning.*
     Explications”](http://writingcenter.unc.edu/handouts/poetry-explications/)
     (HTML) and The Poetry Foundation's version of William Shakespeare’s
     [“Blow, Blow, Thou Winter
-    Wind”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/ENGL-101-2.5_Blow-Blow-Thou-Winter-Wind.pdf)
+    Wind”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/05/ENGL-101-2.5_Blow-Blow-Thou-Winter-Wind.pdf)
     (PDF)  
       
      Instructions: Read “Poetry Explications” and then Shakespeare's
